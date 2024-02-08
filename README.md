@@ -1,4 +1,4 @@
-###   \t Ola! 👋
+###       Ola! 👋
 
 - Typescript
 - C++
